@@ -5,7 +5,7 @@
 
 ## 👋 Olá, mundo!
 
-Bem-vindo ao meu espaço digital! Sou [Gabrielly Neres], um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
+Bem-vindo ao meu espaço digital! Sou Gabrielly Neres, um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
 
 ---
 
