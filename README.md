@@ -1,11 +1,11 @@
 
-# Perfil GitHub - [SeuNome]
+# Perfil GitHub - [GabriellyNeres]
 
 ---
 
 ## 👋 Olá, mundo!
 
-Bem-vindo ao meu espaço digital! Sou Gabrielly Neres, um apaixonado por Ciência da Computação e estudante na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
+Bem-vindo ao meu espaço digital! Sou Gabrielly Neres, sou estudante de Ciência da Computação na PUC Minas. Atualmente, estou imerso no universo da programação, explorando desde o front-end até linguagens de baixo nível, como C.
 
 ---
 
@@ -35,7 +35,7 @@ Em equipe, desenvolvi um sistema robusto em linguagem C para controle de estoque
 ## 📚 Educação
 
 **Ciência da Computação | PUC Minas**  
-*Período: [Ano de Início] - Presente*
+*Período: [2024/1] - Presente*
 
 Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estruturas de dados e paradigmas de programação. Estou sempre buscando aprender e aplicar novas tecnologias para melhorar minhas habilidades técnicas.
 
