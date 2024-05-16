@@ -14,8 +14,7 @@ Bem-vindo ao meu espaço digital! Sou Gabrielly Neres, estudante de Ciência da 
 **Desenvolvedor Front-End | Empresa XPTO**  
 *Período: [Data de Início] - [Data de Término]*
 
-Nesta posição, tive a oportunidade de aprimorar minhas habilidades em HTML, CSS e JavaScript, trabalhando no desenvolvimento de interfaces atraentes e responsivas. Colaborei em projetos cruciais, como [Projeto X], onde liderei a implementação de recursos interativos.
-
+Até o momento atuei apenas atuei em alguns projetos de desenvolvimento para a faculdade.
 **Sistema de Controle de Estoque | Projeto Acadêmico**  
 *Período: [Data de Início] - [Data de Término]*
 
