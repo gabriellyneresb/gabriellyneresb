@@ -44,7 +44,7 @@ Durante meu curso, tenho adquirido conhecimento sólido em algoritmos, estrutura
 ## 🌐 Redes Sociais
 
 - [LinkedIn](https://www.linkedin.com/in/seunome)
-- [Twitter](https://twitter.com/seunome)
+- [Instagram](https://www.instagram.com/gabynerees)
 
 ---
 
