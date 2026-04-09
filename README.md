@@ -23,11 +23,7 @@
 ---
 
 ### 🎵 Ouvindo agora:
-<div align="left">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3vhj7ooyqfgwjqp3pd6kpngea&cover_image=true&theme=dark">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3vhj7ooyqfgwjqp3pd6kpngea&cover_image=true&theme=dark" alt="Spotify" />
-  </a>
-</div>
+[![Meu Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31k3vhj7ooyqfgwjqp3pd6kpngea)
 
 ---
 
