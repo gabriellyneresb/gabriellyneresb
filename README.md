@@ -1,3 +1,4 @@
+###OII eu sou a Gabrielly!!
 ### 🛠 Linguagens e Ferramentas:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -16,4 +17,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellyneresb&theme=vision-friendly-dark" />
 </p>
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=gabriellyneresb&cover_image=true&theme=dark)](https://open.spotify.com/user/gabriellyneresb)
+### 🎵 Ouvindo agora:
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31k3vhj7ooyqfgwjqp3pd6kpngea&cover_image=true&theme=dark)](https://open.spotify.com/user/31k3vhj7ooyqfgwjqp3pd6kpngea)
+
+### 📊 Estatísticas:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellyneresb&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellyneresb&theme=vision-friendly-dark" />
+</p>
