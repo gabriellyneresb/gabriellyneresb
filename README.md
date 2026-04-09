@@ -23,11 +23,11 @@
 ---
 
 ### 🎵 Ouvindo agora:
-<p align="left">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3vhj7ooyqfgwjqp3pd6kpngea&cover_image=true&theme=dark&show_offline=true&background_color=121212&interact=true" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3vhj7ooyqfgwjqp3pd6kpngea&cover_image=true&theme=dark&show_offline=true&background_color=121212&interact=true" alt="Spotify de Gabrielly" />
+<div align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3vhj7ooyqfgwjqp3pd6kpngea&cover_image=true&theme=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3vhj7ooyqfgwjqp3pd6kpngea&cover_image=true&theme=dark" alt="Spotify" />
   </a>
-</p>
+</div>
 
 ---
 
