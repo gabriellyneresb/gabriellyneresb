@@ -15,10 +15,11 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellyneresb&theme=vision-friendly-dark" />
 </p>
-
+---
 ### 🎵 Ouvindo agora:
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31k3vhj7ooyqfgwjqp3pd6kpngea&cover_image=true&theme=dark)](https://open.spotify.com/user/31k3vhj7ooyqfgwjqp3pd6kpngea)
-
+<p align="left">
+  <img src="https://spotify-recent-cards.vercel.app/api?user=31k3vhj7ooyqfgwjqp3pd6kpngea&count=5&theme=dark" alt="Spotify de Gabrielly" />
+</p>
 ---
 
 ### 📱 Redes Sociais e Contato:
