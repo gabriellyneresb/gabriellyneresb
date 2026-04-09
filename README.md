@@ -1,3 +1,7 @@
+# Olá, eu sou a Gabrielly! 👋
+
+---
+
 ### 🛠 Linguagens e Ferramentas:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -16,11 +20,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellyneresb&theme=vision-friendly-dark" />
 </p>
 
+---
+
 ### 🎵 Ouvindo agora:
 <p align="left">
   <img src="https://spotify-recent-cards.vercel.app/api?user=31k3vhj7ooyqfgwjqp3pd6kpngea&count=5&theme=dark" alt="Spotify de Gabrielly" />
 </p>
 
+---
 
 ### 📱 Redes Sociais e Contato:
 
