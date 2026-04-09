@@ -15,3 +15,5 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellyneresb&theme=vision-friendly-dark" />
 </p>
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=gabriellyneresb&cover_image=true&theme=dark)](https://open.spotify.com/user/gabriellyneresb)
