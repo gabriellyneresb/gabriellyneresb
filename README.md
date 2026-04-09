@@ -19,4 +19,24 @@
 ### 🎵 Ouvindo agora:
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31k3vhj7ooyqfgwjqp3pd6kpngea&cover_image=true&theme=dark)](https://open.spotify.com/user/31k3vhj7ooyqfgwjqp3pd6kpngea)
 
+---
+
+### 📱 Redes Sociais e Contato:
+
+<p align="left">
+  <a href="https://www.instagram.com/gabynerees/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielly-neres-52346834a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:gaby.neres.03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/-Skoob-%2300ADEF?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank">
+  </a>
+</p>
+
+**Discord:** `SEU_USUARIO_DO_DISCORD`
 
