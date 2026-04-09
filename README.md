@@ -1,5 +1,5 @@
 # Olá, eu sou a Gabrielly! 👋
-Tenho 21 anos e sou estudante de Ciência da Computação na PUC Minas.
+Tenho 22 anos e sou estudante de Ciência da Computação na PUC Minas.
 
 ---
 
