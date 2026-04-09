@@ -33,10 +33,10 @@
   <a href="mailto:gaby.neres.03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.skoob.com.br/usuario/gabyneresb" target="_blank">
     <img src="https://img.shields.io/badge/-Skoob-%2300ADEF?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank">
   </a>
 </p>
 
-**Discord:** `SEU_USUARIO_DO_DISCORD`
+**Discord:** `gabyneresb`
 
