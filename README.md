@@ -1,5 +1,9 @@
-### Minhas Estatísticas do GitHub:
+### Minhas Estatísticas:
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=dark&layout=compact&langs_count=8)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellyneresb&layout=compact&theme=vision-friendly-dark" alt="Linguagens" />
+</p>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellyneresb&theme=vision-friendly-dark" alt="Streak" />
+</p>
