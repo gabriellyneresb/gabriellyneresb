@@ -1,8 +1,5 @@
 # Olá, eu sou a Gabrielly! 👋
 Tenho 21 anos e sou estudante de Ciência da Computação na PUC Minas.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabriellyneresb/gabriellyneresb/main/banner.png" width="100%" alt="Header Banner de Gabrielly Neres" />
-</p>
 
 ---
 
