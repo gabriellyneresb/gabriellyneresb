@@ -46,3 +46,30 @@
 
 **Discord:** `gabyneresb`
 
+---
+
+---
+
+### 🔮 Meus interesses pessoais:
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>🎓 Estudante de <b>Ciência da Computação</b> na <a href="https://www.pucminas.br/">PUC Minas</a>.</li>
+        <li>💻 Atualmente focado em aprender <b>Java</b> (AEDS II).</li>
+        <li>📚 Apaixonada por leitura, acompanhe minha estante no <a href="https://www.skoob.com.br/usuario/gabyneresb">Skoob</a>.</li>
+        <li>⚽ No tempo livre, gosto de [treinar].</li>
+        <li>📺 Minha série preferida é [The Vampire Diares].</li>
+        <li>🎧 Já trabalhei como Designer Gráfico atuando como Social Media e desenvolvendo identidades visuais de várias empresas.</li>
+        <li>📩 Para conversar comigo, pode me chamar no <a href="https://www.linkedin.com/in/gabriellyneresb">LinkedIn</a>.</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVr9W5RI233qE5/giphy.gif" align="right" alt="Programação" />
+    </td>
+  </tr>
+</table>
+
+---
+
