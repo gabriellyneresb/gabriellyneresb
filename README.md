@@ -59,9 +59,10 @@
         <li>🎓 Estudante de <b>Ciência da Computação</b> na <a href="https://www.pucminas.br/">PUC Minas</a>.</li>
         <li>💻 Atualmente focado em aprender <b>Java</b> (AEDS II).</li>
         <li>📚 Apaixonada por leitura, acompanhe minha estante no <a href="https://www.skoob.com.br/usuario/gabyneresb">Skoob</a>.</li>
-        <li>⚽ No tempo livre, gosto de [treinar].</li>
-        <li>📺 Minha série preferida é [The Vampire Diares].</li>
-        <li>🎧 Já trabalhei como Designer Gráfico atuando como Social Media e desenvolvendo identidades visuais de várias empresas.</li>
+        <li>⚽ No tempo livre, gosto de treinar.</li>
+        <li>✈️ Eu amo viajar e conhecer culturas diferentes.</li>
+        <li>📺 Minha série preferida é The Vampire Diares.</li>
+        <li>🎧 Já trabalhei como Designer Gráfico, atuando como Social Media e desenvolvendo Identidades Visuais para diversas empresas.</li>
         <li>📩 Para conversar comigo, pode me chamar no <a href="https://www.linkedin.com/in/gabriellyneresb">LinkedIn</a>.</li>
       </ul>
     </td>
