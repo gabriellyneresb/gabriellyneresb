@@ -24,7 +24,9 @@
 
 ### 🎵 Ouvindo agora:
 <p align="left">
-  <img src="https://spotify-recent-cards.vercel.app/api?user=31k3vhj7ooyqfgwjqp3pd6kpngea&count=5&theme=dark" alt="Spotify de Gabrielly" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3vhj7ooyqfgwjqp3pd6kpngea&cover_image=true&theme=dark&show_offline=true&background_color=121212&interact=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3vhj7ooyqfgwjqp3pd6kpngea&cover_image=true&theme=dark&show_offline=true&background_color=121212&interact=true" alt="Spotify de Gabrielly" />
+  </a>
 </p>
 
 ---
