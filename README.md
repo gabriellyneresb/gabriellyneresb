@@ -40,9 +40,6 @@ Tenho 22 anos e sou estudante de Ciência da Computação na PUC Minas.
   <a href="mailto:gaby.neres.03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.skoob.com.br/usuario/gabyneresb" target="_blank">
-    <img src="https://img.shields.io/badge/-Skoob-%2300ADEF?style=for-the-badge&logo=read-the-docs&logoColor=white" target="_blank">
-  </a>
 </p>
 
 **Discord:** `gabyneresb`
@@ -58,12 +55,12 @@ Tenho 22 anos e sou estudante de Ciência da Computação na PUC Minas.
       <ul>
         <li>🎓 Estudante de <b>Ciência da Computação</b> na <a href="https://www.pucminas.br/">PUC Minas</a>.</li>
         <li>💻 Atualmente focado em aprender <b>Java</b> (AEDS II).</li>
-        <li>📚 Apaixonada por leitura, acompanhe minha estante no <a href="https://www.skoob.com.br/usuario/gabyneresb">Skoob</a>.</li>
+        <li>📚 Apaixonada por leitura.</li>
         <li>⚽ No tempo livre, gosto de treinar.</li>
         <li>✈️ Eu amo viajar e conhecer culturas diferentes.</li>
         <li>📺 Minha série preferida é The Vampire Diares.</li>
         <li>🎧 Já trabalhei como Designer Gráfico, atuando como Social Media e desenvolvendo Identidades Visuais para diversas empresas.</li>
-        <li>📩 Para conversar comigo, pode me chamar no <a href="https://www.linkedin.com/in/gabriellyneresb">LinkedIn</a>.</li>
+        <li>📩 Para conversar comigo, pode me chamar no <a href="www.linkedin.com/in/gabrielly-neres-52346834a>LinkedIn"</a>.</li>
       </ul>
     </td>
     <td valign="top" width="40%">
