@@ -42,8 +42,6 @@ Tenho 22 anos e sou estudante de Ciência da Computação na PUC Minas.
   </a>
 </p>
 
-**Discord:** `gabyneresb`
-
 ---
 
 
