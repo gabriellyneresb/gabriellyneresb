@@ -58,7 +58,7 @@ Tenho 22 anos e sou estudante de Ciência da Computação na PUC Minas.
         <li>✈️ Eu amo viajar e conhecer culturas diferentes.</li>
         <li>📺 Minha série preferida é The Vampire Diares.</li>
         <li>🎧 Já trabalhei como Designer Gráfico, atuando como Social Media e desenvolvendo Identidades Visuais para diversas empresas.</li>
-        <li>📩 Para conversar comigo, pode me chamar no <a href="https://www.linkedin.com/in/gabrielly-neres-52346834a"</a>.</li>
+        <li>📩 Para conversar comigo, pode me chamar no <a LINKEDIN href="https://www.linkedin.com/in/gabrielly-neres-52346834a"</a>.</li>
       </ul>
     </td>
     <td valign="top" width="40%">
