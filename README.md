@@ -34,7 +34,7 @@ Tenho 22 anos e sou estudante de Ciência da Computação na PUC Minas.
   <a href="https://www.instagram.com/gabynerees/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="www.linkedin.com/in/gabrielly-neres-52346834a" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielly-neres-52346834a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:gaby.neres.03@gmail.com" target="_blank">
@@ -58,7 +58,7 @@ Tenho 22 anos e sou estudante de Ciência da Computação na PUC Minas.
         <li>✈️ Eu amo viajar e conhecer culturas diferentes.</li>
         <li>📺 Minha série preferida é The Vampire Diares.</li>
         <li>🎧 Já trabalhei como Designer Gráfico, atuando como Social Media e desenvolvendo Identidades Visuais para diversas empresas.</li>
-        <li>📩 Para conversar comigo, pode me chamar no <a href="www.linkedin.com/in/gabrielly-neres-52346834a"</a>.</li>
+        <li>📩 Para conversar comigo, pode me chamar no <a href="https://www.linkedin.com/in/gabrielly-neres-52346834a"</a>.</li>
       </ul>
     </td>
     <td valign="top" width="40%">
