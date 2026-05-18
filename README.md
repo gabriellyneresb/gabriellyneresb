@@ -47,7 +47,6 @@ Tenho 22 anos e sou estudante de Ciência da Computação na PUC Minas.
 
 ### 🔮 Meus interesses pessoais:
 
-<table>
   <tr>
     <td valign="top" width="60%">
       <ul>
@@ -65,7 +64,6 @@ Tenho 22 anos e sou estudante de Ciência da Computação na PUC Minas.
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVr9W5RI233qE5/giphy.gif" align="right" alt="Programação" />
     </td>
   </tr>
-</table>
 
 ---
 
